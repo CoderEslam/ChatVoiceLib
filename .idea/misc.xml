@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatVoiceLib/VoicePlayer/src/main/res/drawable/ic_pause_white_24dp.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatVoiceLib/VoicePlayer/src/main/res/layout/main_view.xml" value="0.209375" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatVoiceLib/VoiveAudio/src/main/res/drawable/ic_pause_white_24dp.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatVoiceLib/VoiveAudio/src/main/res/drawable/ic_play_arrow_white_24dp.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatVoiceLib/VoiveAudio/src/main/res/drawable/ic_share_white_24dp.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatVoiceLib/VoiveAudio/src/main/res/drawable/main_layout_bg.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatVoiceLib/VoiveAudio/src/main/res/drawable/play_pause_bg.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatVoiceLib/VoiveAudio/src/main/res/layout/main_view.xml" value="0.209375" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatVoiceLib/app/src/main/res/drawable/ic_pause_white_24dp.xml" value="0.27314814814814814" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatVoiceLib/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatVoiceLib/app/src/main/res/layout/item_contact.xml" value="0.25" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatVoiceLib/app/src/main/res/layout/item_image.xml" value="0.1" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatVoiceLib/app/src/main/res/layout/item_text.xml" value="0.22" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatVoiceLib/app/src/main/res/layout/item_voice.xml" value="0.25" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatVoiceLib/app/src/main/res/layout/main_view.xml" value="0.278125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
