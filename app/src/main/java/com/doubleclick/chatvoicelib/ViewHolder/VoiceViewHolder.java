@@ -39,6 +39,7 @@ public class VoiceViewHolder extends RecyclerView.ViewHolder {
         video.stopPlayback();
         video.pause();
     }
+
     @RequiresApi(api = Build.VERSION_CODES.M)
     public void download(String url,String Name){
         name.setText(Name);
